@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="confspace",
-    version="0.0.1",
+    version="0.0.2",
     author="Hoonisone",
     author_email="hoonisone@gmail.com",
     description="confspace object for tuning parameter",
